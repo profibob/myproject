@@ -1,0 +1,5 @@
+{
+	DBUserName : "blissdb",
+	DBPassword : "123456",
+	MongodbURL : "mongodb://[0]:[1]@ds035760.mongolab.com:35760/IbmCloud_fr95f20h_50l8g74n"
+}
